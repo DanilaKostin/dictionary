@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/slovar"/>
+        <file>mueller2.dict</file>
+    </qresource>
+</RCC>
